@@ -8,11 +8,11 @@ var session = require('express-session');
 
 // Database Credentials
 var config = {
-    user : 'abito12',
-    database: 'abito12',
-    host: 'db.imad.hasura-app.io',
+    user : 'tbxikwnagkexjq',
+    database: 'de85qkhfl5882q',
+    host: 'ec2-54-75-242-208.eu-west-1.compute.amazonaws.com',
     port: '5432',
-    password: process.env.DB_PASSWORD
+    password: 'Hq2SZUu-wqrucR_vuTpzN17lvN'
 };
 
 var app = express();
